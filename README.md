@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vampconnoisseur&show_icons=true&locale=en&layout=compact" alt="vampconnoisseur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vampconnoisseur&show_icons=true&locale=en" alt="vampconnoisseur" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vampconnoisseur&show_icons=true&locale=en" alt="vampconnoisseur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vampconnoisseur&" alt="vampconnoisseur" /></p>
