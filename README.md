@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaiditya Batra</h1>
 <h3 align="center">Passionate App Developer | iOS (SwiftUI & UIKit) | Flutter | Web Development | Proficient in Data Structures and Algorithms using C++"</h3>
-<iframe src="https://giphy.com/embed/4Zgy9QqzWU8C3ugvCa" width="256" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wikitude-augmented-reality-penguin-linux-4Zgy9QqzWU8C3ugvCa">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/4Zgy9QqzWU8C3ugvCa">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vampconnoisseur&label=Profile%20views&color=0e75b6&style=flat" alt="vampconnoisseur" /> </p>
 
