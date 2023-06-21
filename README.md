@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaiditya Batra</h1>
 <h3 align="center">Passionate App Developer | iOS (SwiftUI & UIKit) | Flutter | Web Development | Proficient in Data Structures and Algorithms using C++"</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/embed/4Zgy9QqzWU8C3ugvCa](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D2217383700&psig=AOvVaw3PUeHSfIU_WBC-PulSO0HO&ust=1687421910176000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCF7s720_8CFQAAAAAdAAAAABAF)">
+<img align="right" alt="Coding" width="400" src="[[https://giphy.com/embed/4Zgy9QqzWU8C3ugvCa](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D2217383700&psig=AOvVaw3PUeHSfIU_WBC-PulSO0HO&ust=1687421910176000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCF7s720_8CFQAAAAAdAAAAABAF)](https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vampconnoisseur&label=Profile%20views&color=0e75b6&style=flat" alt="vampconnoisseur" /> </p>
 
