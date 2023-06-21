@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaiditya Batra</h1>
 <h3 align="center">Passionate App Developer | iOS (SwiftUI & UIKit) | Flutter | Web Development | Proficient in Data Structures and Algorithms using C++"</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vampconnoisseur&label=Profile%20views&color=0e75b6&style=flat" alt="vampconnoisseur" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vampconnoisseur" alt="vampconnoisseur" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jaidityabatra" target="blank"><img src="https://img.shields.io/twitter/follow/jaidityabatra?logo=twitter&style=for-the-badge" alt="jaidityabatra" /></a> </p>
 
@@ -29,6 +30,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vampconnoisseur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vampconnoisseur" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vampconnoisseur&show_icons=true&locale=en&layout=compact" alt="vampconnoisseur" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vampconnoisseur&show_icons=true&locale=en&layout=compact" alt="vampconnoisseur" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vampconnoisseur&show_icons=true&locale=en" alt="vampconnoisseur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vampconnoisseur&" alt="vampconnoisseur" /></p>
